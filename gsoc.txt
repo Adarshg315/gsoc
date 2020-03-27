@@ -1,0 +1,19 @@
+react---- 
+Accord project - google docs extension
+casbin-admin dash
+gdevlop-Revamped shortcuts/"Goto Anything" in the editor
+Joplin --Custom keyboard shortcuts
+moira
+rocket-chat**
+
+
+
+python----
+Streamlining Challenge Creation on EvalAI
+sympy
+
+
+both-- and other
+hydra ecosystem
+INCF*
+matrix.org* -math notaion message
